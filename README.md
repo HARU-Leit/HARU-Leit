@@ -2,20 +2,20 @@
 
 **Languages:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-DD4B25?logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1655A2?logo=CSS3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 
 **Frameworks**
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
+![React](https://img.shields.io/badge/React-282C34?logo=React)
+![Vue](https://img.shields.io/badge/Vue-1A1A1A?logo=Vue.js)
+![Sass](https://img.shields.io/badge/Sass-CF649A?logo=sass&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VSCode-209FF0?logo=Visual+Studio+Code&logoColor=white)
 
 **GitHub Stats:**
 
