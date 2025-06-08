@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Haru 🌿</h1>
+<p align="center">
 
-<!--
-**HARU-Leit/HARU-Leit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>趣味でコードを書く、まったり系初級プログラマー。</em><br/>
+  <em>My motto: <b>まったり生きたい</b> 🫧</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- プログラミングは趣味でやっています。
+- Next.js 関連を中心に学習中です。
+- 代表作はまだありませんが、日々ゆるっと成長中。
+
+### 🛠 Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🌱 Now Learning
+- Webフロントエンドの基礎
+- ゆるっと新しい技術
