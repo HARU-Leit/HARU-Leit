@@ -6,14 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARU-Leit&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARU-Leit&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-> りどみとフォークしかまだない...w
----
-
 ## ✨ About Me
 
 - **プログラミングは趣味で、日々ゆるっと成長中**
